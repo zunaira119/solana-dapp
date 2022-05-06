@@ -11,5 +11,5 @@ cluster = "localnet"
 wallet = "/Users/zunairajaved/.config/solana/id.json"
 
 [scripts]
-test = "yarn run mocha -t 1000000 tests/"
+test = "yarn run ts-mocha -t 1000000 tests/**/*.ts"
 my-custom-script = "echo 'Hello world!'"
