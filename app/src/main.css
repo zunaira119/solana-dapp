@@ -21,3 +21,22 @@
 .swv-dropdown-list-active {
     @apply transform -translate-y-3 md:translate-y-3;
 }
+.icon-image{
+     margin-left: 33%;
+     max-width: 30%;
+}
+.swv-button{
+    background-color: #00ACEE !important;
+}
+.text-pink-500{
+    color: #00ACEE;
+}
+.swv-modal-list .swv-button{
+    margin-bottom: 1%;
+}
+.swv-modal-wrapper{
+    max-width: 350px;
+}
+.text-white {
+    background-color: #00ACEE;
+}
